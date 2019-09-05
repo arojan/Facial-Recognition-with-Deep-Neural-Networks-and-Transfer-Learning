@@ -12,7 +12,7 @@ Add your custom dataset in the 'dataset' directory of this repository. Do some m
 Things to note:::
 
 1. First, install the following dependencies:
-    #pip3 install tensorFlow keras pandas numpy sklearn opencv-python imutils
+    #pip install --user --requirement requirements.txt
 
 2. Second, fire the terminal and go to the project directory. Once there, follow:
     #chmod +x script.py
